@@ -1,10 +1,9 @@
 # PacMan
-======================
 
 ## Table of contents
 
-- [Class Structure](#Class Structure)
+- [Classes](#Classes)
 
 
-## Class Structure
+## Classes
 SOMETHING
