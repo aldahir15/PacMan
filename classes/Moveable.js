@@ -11,7 +11,6 @@ class Moveable {
     this.position = this.position.map(function (num, idx) {
       return num + directions[dir][idx];
     });
-    console.log(this.position);
   }
 }
 
